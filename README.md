@@ -29,5 +29,5 @@ I built and styled this blog using:
 
 Check out the live blog here:  
 
-https://jessemwendwandunda.github.io/my-blog-JESSE-
+ https://jessemwendwandunda.github.io/my-blog-JESSE-NDUNDA/
 
